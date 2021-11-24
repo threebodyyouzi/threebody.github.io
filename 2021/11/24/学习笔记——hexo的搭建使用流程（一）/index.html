@@ -1,0 +1,167 @@
+
+<!DOCTYPE html>
+<html lang="en" class="loading">
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>学习笔记——hexo的搭建使用流程（一） - Hexo</title>
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="google" content="notranslate" />
+    <meta name="keywords" content="Fechin,"> 
+    <meta name="description" content="Hexo搭建步骤    1、安装Git    2、安装Node.js    3、安装Hexo    4、安装nginx
+一、安装Git    git作用：用来管理hexo博客文章，上传到github,"> 
+    <meta name="author" content="John Doe"> 
+    <link rel="alternative" href="atom.xml" title="Hexo" type="application/atom+xml"> 
+    <link rel="icon" href="/img/favicon.png"> 
+    
+    
+<link rel="stylesheet" href="/css/diaspora.css">
+
+<meta name="generator" content="Hexo 5.4.0"></head>
+
+<body class="loading">
+    <span id="config-title" style="display:none">Hexo</span>
+    <div id="loader"></div>
+    <div id="single">
+    <div id="top" style="display: block;">
+    <div class="bar" style="width: 0;"></div>
+    <a class="iconfont icon-home image-icon" href="javascript:;" data-url="http://example.com"></a>
+    <div title="播放/暂停" class="iconfont icon-play"></div>
+    <h3 class="subtitle">学习笔记——hexo的搭建使用流程（一）</h3>
+    <div class="social">
+        <div>
+            <div class="share">
+                <a title="获取二维码" class="iconfont icon-scan" href="javascript:;"></a>
+            </div>
+            <div id="qr"></div>
+        </div>
+    </div>
+    <div class="scrollbar"></div>
+</div>
+
+    <div class="section">
+        <div class="article">
+    <div class='main'>
+        <h1 class="title">学习笔记——hexo的搭建使用流程（一）</h1>
+        <div class="stuff">
+            <span>十一月 24, 2021</span>
+            
+  <ul class="post-tags-list" itemprop="keywords"><li class="post-tags-list-item"><a class="post-tags-list-link" href="/tags/IT%E7%9F%A5%E8%AF%86/" rel="tag">IT知识</a></li><li class="post-tags-list-item"><a class="post-tags-list-link" href="/tags/hexo/" rel="tag">hexo</a></li></ul>
+
+
+        </div>
+        <div class="content markdown">
+            <p>Hexo搭建步骤<br>    1、安装Git<br>    2、安装Node.js<br>    3、安装Hexo<br>    4、安装nginx</p>
+<p>一、安装Git<br>    git作用：用来管理hexo博客文章，上传到github的工具<br>    安装命令：<br>    <code>yum  -y install git-core</code><br>    安装好后，用git –version确认版本</p>
+<p>二、安装Node.js<br>    1、先从官网下载node.js的压缩包<br>        <code>wget https://nodejs.org/dist/v12.16.0/node-v12.16.0-linux-x64.tar.xz</code><br>    2、解压到/opt目录下<br>        <code>tar -xvf node-v12.16.0-linux-x64.tar.xz -C /opt/</code><br>    3、为了简洁，将目录重命名<br>        <code>cd /opt/</code><br>        <code>mv node-v12.16.0-linux-x64 nodejs</code><br>    4、修改环境变量<br>        <code>vi /etc/profile</code><br>    在该配置文件下添加以下内容<br>        <code>PATH=/opt/nodejs/bin:$PATH</code><br>    5、重新加载配置文件，使其生效<br>        <code>source /etc/profile</code><br>    6、进行验证<br>        <figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">[root@VM-0-6-centos _posts]# node -v</span><br><span class="line">v12.16.0</span><br><span class="line">[root@VM-0-6-centos _posts]# npm -v </span><br><span class="line">6.13.4</span><br></pre></td></tr></table></figure></p>
+<p>三、安装Hexo<br>    1、安装hexo程序<br>        <code>npm install hexo-cli -g</code><br>    2、到指定的目录下部署hexo(比方说/home/hexo)<br>        <code>mkdir /home/hexo &amp;&amp; cd /home/hexo</code><br>    3、在当前目录下建立网站<br>        <code>hexo init</code><br>    4、生成静态文件<br>        <code>hexo g</code></p>
+<p>四、安装nginx<br>    1、nginx简介<br>        nginx是一个高性能的HTTP和反向代理web服务器，同时也提供了IMAP/POP3/SMTP服务<br>        其特点是占有内存少，并发能力强<br>    2、nginx安装<br>        <code>yum -y install nginx</code><br>    3、nginx配置<br>        <code>vim /etc/nginx/nginx.conf</code><br>        在该配置文件中，首次部署可以只关注server部分<br>        <figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br></pre></td><td class="code"><pre><span class="line">server &#123;</span><br><span class="line">      listen       80;</span><br><span class="line">      listen       [::]:80;</span><br><span class="line">      server_name  _;						#server_name后配置的是域名，只有一个下划线代表不启用域名</span><br><span class="line">      root         /usr/share/nginx/html;</span><br><span class="line"></span><br><span class="line">      # Load configuration files for the default server block.</span><br><span class="line">      include /etc/nginx/default.d/*.conf;</span><br><span class="line"></span><br><span class="line"></span><br><span class="line">      location / &#123;						#在该部分新增location块,该location块指定/与来自请求的URI相比较的前缀</span><br><span class="line">      root /home/hexo/public;				#该字段配置的是生成的静态文件所在的目录位置</span><br><span class="line">      index index.html index.htm;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">      error_page 404 /404.html;</span><br><span class="line">      location = /404.html &#123;</span><br><span class="line">      &#125;</span><br><span class="line"></span><br><span class="line">      error_page 500 502 503 504 /50x.html;</span><br><span class="line">      location = /50x.html &#123;</span><br><span class="line">      &#125;</span><br><span class="line">  &#125;</span><br></pre></td></tr></table></figure><br>    4、令nginx配置生效<br>        <code>nginx -s reload</code>            #热启动，不重启nginx服务，只是重新读取配置 </p>
+<p>五、进行验证<br>    由于已经配置过nginx，直接用 http://公网ip/ 即可访问</p>
+
+            <!--[if lt IE 9]><script>document.createElement('audio');</script><![endif]-->
+            <audio id="audio" loop="1" preload="auto" controls="controls" data-autoplay="ture">
+                <source type="audio/mpeg" src="">
+            </audio>
+            
+                <ul id="audio-list" style="display:none">
+                    
+                        
+                            <li title='0' data-url='//mp3/El_Pueblo.mp3'></li>
+                        
+                    
+                </ul>
+            
+        </div>
+        
+    <div id='gitalk-container' class="comment link"
+		data-enable='false'
+        data-ae='false'
+        data-ci=''
+        data-cs=''
+        data-r=''
+        data-o=''
+        data-a=''
+        data-d='false'
+    >查看评论</div>
+
+
+    </div>
+    
+</div>
+
+
+    </div>
+</div>
+</body>
+
+
+<script src="//lib.baomitu.com/jquery/1.8.3/jquery.min.js"></script>
+<script src="/js/plugin.js"></script>
+<script src="/js/typed.js"></script>
+<script src="/js/diaspora.js"></script>
+
+
+<link rel="stylesheet" href="/photoswipe/photoswipe.css">
+<link rel="stylesheet" href="/photoswipe/default-skin/default-skin.css">
+
+
+<script src="/photoswipe/photoswipe.min.js"></script>
+<script src="/photoswipe/photoswipe-ui-default.min.js"></script>
+
+
+<!-- Root element of PhotoSwipe. Must have class pswp. -->
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+    <!-- Background of PhotoSwipe. 
+         It's a separate element as animating opacity is faster than rgba(). -->
+    <div class="pswp__bg"></div>
+    <!-- Slides wrapper with overflow:hidden. -->
+    <div class="pswp__scroll-wrap">
+        <!-- Container that holds slides. 
+            PhotoSwipe keeps only 3 of them in the DOM to save memory.
+            Don't modify these 3 pswp__item elements, data is added later on. -->
+        <div class="pswp__container">
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+        </div>
+        <!-- Default (PhotoSwipeUI_Default) interface on top of sliding area. Can be changed. -->
+        <div class="pswp__ui pswp__ui--hidden">
+            <div class="pswp__top-bar">
+                <!--  Controls are self-explanatory. Order can be changed. -->
+                <div class="pswp__counter"></div>
+                <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+                <button class="pswp__button pswp__button--share" title="Share"></button>
+                <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+                <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+                <!-- Preloader demo http://codepen.io/dimsemenov/pen/yyBWoR -->
+                <!-- element will get class pswp__preloader--active when preloader is running -->
+                <div class="pswp__preloader">
+                    <div class="pswp__preloader__icn">
+                      <div class="pswp__preloader__cut">
+                        <div class="pswp__preloader__donut"></div>
+                      </div>
+                    </div>
+                </div>
+            </div>
+            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                <div class="pswp__share-tooltip"></div> 
+            </div>
+            <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+            </button>
+            <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+            </button>
+            <div class="pswp__caption">
+                <div class="pswp__caption__center"></div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+</html>
