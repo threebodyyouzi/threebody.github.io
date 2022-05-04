@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>柚子の小屋</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2022-02-08T01:15:00.247Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>三体柚子</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>C#学习笔记——数据类型</title>
+    <link href="http://example.com/2022/02/08/C-%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%E2%80%94%E2%80%94%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B/"/>
+    <id>http://example.com/2022/02/08/C-%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%E2%80%94%E2%80%94%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B/</id>
+    <published>2022-02-08T01:15:00.000Z</published>
+    <updated>2022-02-08T01:15:00.247Z</updated>
+    
+    
+    
+    
+    <category term="分类1" scheme="http://example.com/categories/%E5%88%86%E7%B1%BB1/"/>
+    
+    
+    <category term="标签1" scheme="http://example.com/tags/%E6%A0%87%E7%AD%BE1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>读书笔记——《毛泽东选集（一）》</title>
+    <link href="http://example.com/2022/01/24/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0%E2%80%94%E2%80%94%E3%80%8A%E6%AF%9B%E6%B3%BD%E4%B8%9C%E9%80%89%E9%9B%86%EF%BC%88%E4%B8%80%EF%BC%89%E3%80%8B/"/>
+    <id>http://example.com/2022/01/24/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0%E2%80%94%E2%80%94%E3%80%8A%E6%AF%9B%E6%B3%BD%E4%B8%9C%E9%80%89%E9%9B%86%EF%BC%88%E4%B8%80%EF%BC%89%E3%80%8B/</id>
+    <published>2022-01-24T01:43:04.000Z</published>
+    <updated>2022-05-03T09:37:39.000Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="边界土地状况"><a href="#边界土地状况" class="headerlink" title="边界土地状况"></a>边界土地状况</h4><p>大体来说，土地的百分之六十以上在地主手里，百分之四十以下在农民手里。</p><p>江西方面，遂川的土地最集中，约百分之八十是地主的。永新次之，约百分之七十是地主的。万安、宁冈、莲花自耕农较多，但地主的土地仍占比较的多数，约百分之六十，农民只占百分之四十。</p><p>湖南方面，茶陵、酃县两县均有约百分之七十的土地在地主手中</p><h4 id="中间阶级问题"><a href="#中间阶级问题" class="headerlink" title="中间阶级问题"></a>中间阶级问题</h4><p>在上述土地状况之下，没收一切土地重新分配，是能得到大多数人拥护的。但农村中略分为三种阶级，即大、中地主阶级，小地主、富农的中间阶级，中农、贫农阶级。富农往往与小地主利害联在一起。富农土地在土地总额中占少数，但与小地主土地合计，则数量颇大。这种情形，空全国亦差不多。</p><p>边界对于土地是采取全部没收、彻底分配的政策；故在红色区域，豪绅阶级和中间阶级，同被打击。政策是如此，实际执行时却大受中间阶级的阻碍。当革命初期，中间阶级表面上贫农阶级，实际则利用他们从前的社会地位及家族主义，恐吓贫农，延宕分田的时间。到无可延宕时，即隐瞒土地实数，或自据肥田，把瘠田让人。</p><p>此时期内，贫农因长期地被摧残及感觉革命胜利无保障，往往接受中间阶级的意见，不敢积极行动。必待进至革命高涨，如得了全县甚至几县政权，反动军队几次战败，红军的威力几次表现之后，农村中才有对于中间阶级的积极行动。</p><p>如永新南乡，是中间阶级最多的地方，延宕分田及隐瞒土地也最厉害。到六月二十三日龙源口红军大胜之后，区政府又处理了几个延宕分田的人，才实际地分下去。但无论哪一县，封建的家族组织十分普遍，多是一姓一个村子，或一姓几个村子，非有一个比较长的时间，村子内阶级分化不能完成，家族主义不能战胜。</p>]]></content>
+    
+    
+    <summary type="html">毛泽东选集第一册，土地问题</summary>
+    
+    
+    
+    <category term="读书笔记" scheme="http://example.com/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="读书笔记" scheme="http://example.com/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="毛选" scheme="http://example.com/tags/%E6%AF%9B%E9%80%89/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>我的菜谱——炖羊肉</title>
+    <link href="http://example.com/2022/01/05/%E6%88%91%E7%9A%84%E8%8F%9C%E8%B0%B1%E2%80%94%E2%80%94%E7%82%96%E7%BE%8A%E8%82%89/"/>
+    <id>http://example.com/2022/01/05/%E6%88%91%E7%9A%84%E8%8F%9C%E8%B0%B1%E2%80%94%E2%80%94%E7%82%96%E7%BE%8A%E8%82%89/</id>
+    <published>2022-01-05T11:32:34.000Z</published>
+    <updated>2022-01-05T12:01:33.863Z</updated>
+    
+    <content type="html"><![CDATA[<h5 id="一、所需食材"><a href="#一、所需食材" class="headerlink" title="一、所需食材"></a>一、所需食材</h5><p>羊腿1个，铁棍山药1根，青菜2颗</p><p>小葱适量，枸杞适量，生姜适量</p><p>盐适量，料酒一勺</p><h5 id="二、做法步骤"><a href="#二、做法步骤" class="headerlink" title="二、做法步骤"></a>二、做法步骤</h5><h6 id="1、将羊肉切块，骨头剁开"><a href="#1、将羊肉切块，骨头剁开" class="headerlink" title="1、将羊肉切块，骨头剁开"></a>1、将羊肉切块，骨头剁开</h6><p><img src="/2022/01/05/%E6%88%91%E7%9A%84%E8%8F%9C%E8%B0%B1%E2%80%94%E2%80%94%E7%82%96%E7%BE%8A%E8%82%89/1.jpg" alt="羊肉切块"></p><h6 id="2、炒锅热油放羊肉，煽炒变肉色"><a href="#2、炒锅热油放羊肉，煽炒变肉色" class="headerlink" title="2、炒锅热油放羊肉，煽炒变肉色"></a>2、炒锅热油放羊肉，煽炒变肉色</h6><p><img src="/2022/01/05/%E6%88%91%E7%9A%84%E8%8F%9C%E8%B0%B1%E2%80%94%E2%80%94%E7%82%96%E7%BE%8A%E8%82%89/2.jpg" alt="羊肉炒变色"></p><h6 id="3、加料酒和葱姜"><a href="#3、加料酒和葱姜" class="headerlink" title="3、加料酒和葱姜"></a>3、加料酒和葱姜</h6><p><img src="/2022/01/05/%E6%88%91%E7%9A%84%E8%8F%9C%E8%B0%B1%E2%80%94%E2%80%94%E7%82%96%E7%BE%8A%E8%82%89/3.jpg" alt="加调料"></p><h6 id="4、倒入开水，烧开去浮沫"><a href="#4、倒入开水，烧开去浮沫" class="headerlink" title="4、倒入开水，烧开去浮沫"></a>4、倒入开水，烧开去浮沫</h6><p><img src="/2022/01/05/%E6%88%91%E7%9A%84%E8%8F%9C%E8%B0%B1%E2%80%94%E2%80%94%E7%82%96%E7%BE%8A%E8%82%89/4.jpg" alt="加水去浮沫"></p><h6 id="5、将羊肉与汤倒入砂锅，加枸杞、山药"><a href="#5、将羊肉与汤倒入砂锅，加枸杞、山药" class="headerlink" title="5、将羊肉与汤倒入砂锅，加枸杞、山药"></a>5、将羊肉与汤倒入砂锅，加枸杞、山药</h6><p><img src="/2022/01/05/%E6%88%91%E7%9A%84%E8%8F%9C%E8%B0%B1%E2%80%94%E2%80%94%E7%82%96%E7%BE%8A%E8%82%89/5.jpg" alt="加枸杞"></p><h6 id="6、盖上盖子，小火慢炖1小时，中途观察水是否烧干，记得加水"><a href="#6、盖上盖子，小火慢炖1小时，中途观察水是否烧干，记得加水" class="headerlink" title="6、盖上盖子，小火慢炖1小时，中途观察水是否烧干，记得加水"></a>6、盖上盖子，小火慢炖1小时，中途观察水是否烧干，记得加水</h6><h6 id="最后加入少许青菜，并加盐调味"><a href="#最后加入少许青菜，并加盐调味" class="headerlink" title="最后加入少许青菜，并加盐调味"></a>最后加入少许青菜，并加盐调味</h6><p><img src="/2022/01/05/%E6%88%91%E7%9A%84%E8%8F%9C%E8%B0%B1%E2%80%94%E2%80%94%E7%82%96%E7%BE%8A%E8%82%89/6.jpg" alt="小火慢炖"></p><h6 id="7、一锅有汤有菜有肉的羊肉汤新鲜出炉了"><a href="#7、一锅有汤有菜有肉的羊肉汤新鲜出炉了" class="headerlink" title="7、一锅有汤有菜有肉的羊肉汤新鲜出炉了"></a>7、一锅有汤有菜有肉的羊肉汤新鲜出炉了</h6><p><img src="/2022/01/05/%E6%88%91%E7%9A%84%E8%8F%9C%E8%B0%B1%E2%80%94%E2%80%94%E7%82%96%E7%BE%8A%E8%82%89/7.jpg" alt="成品"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h5 id=&quot;一、所需食材&quot;&gt;&lt;a href=&quot;#一、所需食材&quot; class=&quot;headerlink&quot; title=&quot;一、所需食材&quot;&gt;&lt;/a&gt;一、所需食材&lt;/h5&gt;&lt;p&gt;羊腿1个，铁棍山药1根，青菜2颗&lt;/p&gt;
+&lt;p&gt;小葱适量，枸杞适量，生姜适量&lt;/p&gt;
+&lt;p&gt;盐适量，料酒一勺</summary>
+      
+    
+    
+    
+    <category term="美食记录" scheme="http://example.com/categories/%E7%BE%8E%E9%A3%9F%E8%AE%B0%E5%BD%95/"/>
+    
+    
+    <category term="摄影" scheme="http://example.com/tags/%E6%91%84%E5%BD%B1/"/>
+    
+    <category term="美食" scheme="http://example.com/tags/%E7%BE%8E%E9%A3%9F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>血源诅咒迷宫铭文整理</title>
+    <link href="http://example.com/2021/12/12/%E8%A1%80%E6%BA%90%E8%AF%85%E5%92%92%E8%BF%B7%E5%AE%AB%E9%93%AD%E6%96%87%E6%95%B4%E7%90%86/"/>
+    <id>http://example.com/2021/12/12/%E8%A1%80%E6%BA%90%E8%AF%85%E5%92%92%E8%BF%B7%E5%AE%AB%E9%93%AD%E6%96%87%E6%95%B4%E7%90%86/</id>
+    <published>2021-12-12T01:53:46.000Z</published>
+    <updated>2022-01-24T01:28:47.548Z</updated>
+    
+    <content type="html"><![CDATA[<p>该博文记录了部分《血源诅咒》中，部分常用的地宫铭文的代码</p><span id="more"></span> <h4 id="一、快速白金铭文"><a href="#一、快速白金铭文" class="headerlink" title="一、快速白金铭文"></a>一、快速白金铭文</h4><p>8nntfzdb——苏美鲁女王逃课，深度0，仅限老猎人版本，可反复刷获取灵视</p><p>fearrfan ——怪异兽爪，深度1的苏美鲁金杯，兽爪在一层通道侧门</p><h4 id="二、早期获取子嗣3符文的铭文"><a href="#二、早期获取子嗣3符文的铭文" class="headerlink" title="二、早期获取子嗣3符文的铭文"></a>二、早期获取子嗣3符文的铭文</h4><p>ars6u9q7——腐臭苏美鲁，深度5</p><h4 id="三、刷回响的铭文"><a href="#三、刷回响的铭文" class="headerlink" title="三、刷回响的铭文"></a>三、刷回响的铭文</h4><p>CUMMMFPK——丝血迷宫，新建号可使用</p><h4 id="四、刷血岩的铭文"><a href="#四、刷血岩的铭文" class="headerlink" title="四、刷血岩的铭文"></a>四、刷血岩的铭文</h4><h6 id="1、一次性血岩，深度5迷宫"><a href="#1、一次性血岩，深度5迷宫" class="headerlink" title="1、一次性血岩，深度5迷宫"></a>1、一次性血岩，深度5迷宫</h6><p>6krqjavr——罗伦城<br>rpzkeauc——伊兹<br>jrwffkyp——苏美鲁</p><h6 id="2、可反复刷的迷宫，标记为深度5，实际难度深度2"><a href="#2、可反复刷的迷宫，标记为深度5，实际难度深度2" class="headerlink" title="2、可反复刷的迷宫，标记为深度5，实际难度深度2"></a>2、可反复刷的迷宫，标记为深度5，实际难度深度2</h6><p>bej77ini</p><p>yjhmdxgf</p><p>yei7em39</p><p>xtr8nc4p</p><p>vfcnfjus</p><p>dz48cmwr</p><p>f77av8nd</p><h4 id="五、刷宝石的铭文"><a href="#五、刷宝石的铭文" class="headerlink" title="五、刷宝石的铭文"></a>五、刷宝石的铭文</h4><p>待更新</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;该博文记录了部分《血源诅咒》中，部分常用的地宫铭文的代码&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="游戏记录" scheme="http://example.com/categories/%E6%B8%B8%E6%88%8F%E8%AE%B0%E5%BD%95/"/>
+    
+    
+    <category term="娱乐" scheme="http://example.com/tags/%E5%A8%B1%E4%B9%90/"/>
+    
+    <category term="血源诅咒" scheme="http://example.com/tags/%E8%A1%80%E6%BA%90%E8%AF%85%E5%92%92/"/>
+    
+    <category term="游戏攻略" scheme="http://example.com/tags/%E6%B8%B8%E6%88%8F%E6%94%BB%E7%95%A5/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo的部署使用——如何在文章中添加图片</title>
+    <link href="http://example.com/2021/12/09/Hexo%E7%9A%84%E9%83%A8%E7%BD%B2%E4%BD%BF%E7%94%A8%E2%80%94%E2%80%94%E5%A6%82%E4%BD%95%E5%9C%A8%E6%96%87%E7%AB%A0%E4%B8%AD%E6%B7%BB%E5%8A%A0%E5%9B%BE%E7%89%87/"/>
+    <id>http://example.com/2021/12/09/Hexo%E7%9A%84%E9%83%A8%E7%BD%B2%E4%BD%BF%E7%94%A8%E2%80%94%E2%80%94%E5%A6%82%E4%BD%95%E5%9C%A8%E6%96%87%E7%AB%A0%E4%B8%AD%E6%B7%BB%E5%8A%A0%E5%9B%BE%E7%89%87/</id>
+    <published>2021-12-09T02:34:40.000Z</published>
+    <updated>2022-01-20T09:30:38.168Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="hexo博客编辑——在博客中添加图片"><a href="#hexo博客编辑——在博客中添加图片" class="headerlink" title="hexo博客编辑——在博客中添加图片"></a>hexo博客编辑——在博客中添加图片</h2><p>1、安装插件</p><p>2、修改配置文件</p><p>3、在博客中插入图片</p><h3 id="一、在hexo博客中添加图片"><a href="#一、在hexo博客中添加图片" class="headerlink" title="一、在hexo博客中添加图片"></a>一、在hexo博客中添加图片</h3><h4 id="1、安装插件"><a href="#1、安装插件" class="headerlink" title="1、安装插件"></a>1、安装插件</h4><p><code>npm install hexo-asset-image --save</code></p><h4 id="2、修改配置文件"><a href="#2、修改配置文件" class="headerlink" title="2、修改配置文件"></a>2、修改配置文件</h4><p>修改主目录下的<code>_config.yml</code>，修改<code>post_asset_folder</code>，把false改成true</p><h4 id="3、更改-home-hexo-node-modules-hexo-asset-image-index-js"><a href="#3、更改-home-hexo-node-modules-hexo-asset-image-index-js" class="headerlink" title="3、更改/home/hexo/node_modules/hexo-asset-image/index.js"></a>3、更改<code>/home/hexo/node_modules/hexo-asset-image/index.js</code></h4><p>将该配置文件下的内容进行替换</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br><span class="line">44</span><br><span class="line">45</span><br><span class="line">46</span><br><span class="line">47</span><br><span class="line">48</span><br><span class="line">49</span><br><span class="line">50</span><br><span class="line">51</span><br><span class="line">52</span><br><span class="line">53</span><br><span class="line">54</span><br><span class="line">55</span><br><span class="line">56</span><br><span class="line">57</span><br><span class="line">58</span><br><span class="line">59</span><br><span class="line">60</span><br><span class="line">61</span><br></pre></td><td class="code"><pre><span class="line">&#x27;use strict&#x27;;</span><br><span class="line">var cheerio = require(&#x27;cheerio&#x27;);</span><br><span class="line"></span><br><span class="line">// http://stackoverflow.com/questions/14480345/how-to-get-the-nth-occurrence-in-a-string</span><br><span class="line">function getPosition(str, m, i) &#123;</span><br><span class="line">  return str.split(m, i).join(m).length;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">var version = String(hexo.version).split(&#x27;.&#x27;);</span><br><span class="line">hexo.extend.filter.register(&#x27;after_post_render&#x27;, function(data)&#123;</span><br><span class="line">  var config = hexo.config;</span><br><span class="line">  if(config.post_asset_folder)&#123;</span><br><span class="line">        var link = data.permalink;</span><br><span class="line">    if(version.length &gt; 0 &amp;&amp; Number(version[0]) == 3)</span><br><span class="line">       var beginPos = getPosition(link, &#x27;/&#x27;, 1) + 1;</span><br><span class="line">    else</span><br><span class="line">       var beginPos = getPosition(link, &#x27;/&#x27;, 3) + 1;</span><br><span class="line">    // In hexo 3.1.1, the permalink of &quot;about&quot; page is like &quot;.../about/index.html&quot;.</span><br><span class="line">    var endPos = link.lastIndexOf(&#x27;/&#x27;) + 1;</span><br><span class="line">    link = link.substring(beginPos, endPos);</span><br><span class="line"></span><br><span class="line">    var toprocess = [&#x27;excerpt&#x27;, &#x27;more&#x27;, &#x27;content&#x27;];</span><br><span class="line">    for(var i = 0; i &lt; toprocess.length; i++)&#123;</span><br><span class="line">      var key = toprocess[i];</span><br><span class="line"> </span><br><span class="line">      var $ = cheerio.load(data[key], &#123;</span><br><span class="line">        ignoreWhitespace: false,</span><br><span class="line">        xmlMode: false,</span><br><span class="line">        lowerCaseTags: false,</span><br><span class="line">        decodeEntities: false</span><br><span class="line">      &#125;);</span><br><span class="line"></span><br><span class="line">      $(&#x27;img&#x27;).each(function()&#123;</span><br><span class="line">        if ($(this).attr(&#x27;src&#x27;))&#123;</span><br><span class="line">            // For windows style path, we replace &#x27;\&#x27; to &#x27;/&#x27;.</span><br><span class="line">            var src = $(this).attr(&#x27;src&#x27;).replace(&#x27;\\&#x27;, &#x27;/&#x27;);</span><br><span class="line">            if(!/http[s]*.*|\/\/.*/.test(src) &amp;&amp;</span><br><span class="line">               !/^\s*\//.test(src)) &#123;</span><br><span class="line">              // For &quot;about&quot; page, the first part of &quot;src&quot; can&#x27;t be removed.</span><br><span class="line">              // In addition, to support multi-level local directory.</span><br><span class="line">              var linkArray = link.split(&#x27;/&#x27;).filter(function(elem)&#123;</span><br><span class="line">                return elem != &#x27;&#x27;;</span><br><span class="line">              &#125;);</span><br><span class="line">              var srcArray = src.split(&#x27;/&#x27;).filter(function(elem)&#123;</span><br><span class="line">                return elem != &#x27;&#x27; &amp;&amp; elem != &#x27;.&#x27;;</span><br><span class="line">              &#125;);</span><br><span class="line">              if(srcArray.length &gt; 1)</span><br><span class="line">                srcArray.shift();</span><br><span class="line">              src = srcArray.join(&#x27;/&#x27;);</span><br><span class="line">              $(this).attr(&#x27;src&#x27;, config.root + link + src);</span><br><span class="line">              console.info&amp;&amp;console.info(&quot;update link as:--&gt;&quot;+config.root + link + src);</span><br><span class="line">            &#125;</span><br><span class="line">        &#125;else&#123;</span><br><span class="line">            console.info&amp;&amp;console.info(&quot;no src attr, skipped...&quot;);</span><br><span class="line">            console.info&amp;&amp;console.info($(this));</span><br><span class="line">        &#125;</span><br><span class="line">      &#125;);</span><br><span class="line">      data[key] = $.html();</span><br><span class="line">    &#125;</span><br><span class="line">  &#125;</span><br><span class="line">&#125;);</span><br></pre></td></tr></table></figure><h4 id="4、在博客中添加图片"><a href="#4、在博客中添加图片" class="headerlink" title="4、在博客中添加图片"></a>4、在博客中添加图片</h4><p>将要插入的图片文件，上传到<code>source/_post/</code>目录下，与博客名字相同的文件夹下</p><p>并且在编辑博客内容的时候，按照markdown的标准插入图片</p><p><code>![这是代替图片的文字，随便写](图片的文件名)</code></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;hexo博客编辑——在博客中添加图片&quot;&gt;&lt;a href=&quot;#hexo博客编辑——在博客中添加图片&quot; class=&quot;headerlink&quot; title=&quot;hexo博客编辑——在博客中添加图片&quot;&gt;&lt;/a&gt;hexo博客编辑——在博客中添加图片&lt;/h2&gt;&lt;p&gt;1、安装插件</summary>
+      
+    
+    
+    
+    <category term="学习资料" scheme="http://example.com/categories/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99/"/>
+    
+    
+    <category term="hexo" scheme="http://example.com/tags/hexo/"/>
+    
+    <category term="IT知识" scheme="http://example.com/tags/IT%E7%9F%A5%E8%AF%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>模型拼装——流浪地球运兵车</title>
+    <link href="http://example.com/2021/11/27/%E6%A8%A1%E5%9E%8B%E6%8B%BC%E8%A3%85%E2%80%94%E2%80%94%E6%B5%81%E6%B5%AA%E5%9C%B0%E7%90%83%E8%BF%90%E5%85%B5%E8%BD%A6/"/>
+    <id>http://example.com/2021/11/27/%E6%A8%A1%E5%9E%8B%E6%8B%BC%E8%A3%85%E2%80%94%E2%80%94%E6%B5%81%E6%B5%AA%E5%9C%B0%E7%90%83%E8%BF%90%E5%85%B5%E8%BD%A6/</id>
+    <published>2021-11-27T05:51:54.000Z</published>
+    <updated>2022-01-20T07:21:54.974Z</updated>
+    
+    <content type="html"><![CDATA[<p>这是一个流浪地球运兵车模型拼装过程的记录</p><p><img src="/2021/11/27/%E6%A8%A1%E5%9E%8B%E6%8B%BC%E8%A3%85%E2%80%94%E2%80%94%E6%B5%81%E6%B5%AA%E5%9C%B0%E7%90%83%E8%BF%90%E5%85%B5%E8%BD%A6/20211127212750.jpg" alt="成品图"></p><p>双十一的时候入手了一个运兵车的积木模型，总共包含2800+块积木，工作日较忙没时间拼装，从这周末开始，记录下每次的拼装进度</p><h3 id="2021-11-27白天"><a href="#2021-11-27白天" class="headerlink" title="2021/11/27白天"></a>2021/11/27白天</h3><p>进度一览：运兵车底座骨架</p><p>1、车头部分，车头部分的四个轮子是转向轮，负责控制运兵车的运行方向</p><p><img src="/2021/11/27/%E6%A8%A1%E5%9E%8B%E6%8B%BC%E8%A3%85%E2%80%94%E2%80%94%E6%B5%81%E6%B5%AA%E5%9C%B0%E7%90%83%E8%BF%90%E5%85%B5%E8%BD%A6/32d85f61dd512e2e8307d69f5223c2d.jpg" alt="车头"></p><p>2、车身部分，由三个类似的模块组合而成</p><p><img src="/2021/11/27/%E6%A8%A1%E5%9E%8B%E6%8B%BC%E8%A3%85%E2%80%94%E2%80%94%E6%B5%81%E6%B5%AA%E5%9C%B0%E7%90%83%E8%BF%90%E5%85%B5%E8%BD%A6/99e818cdf8dcc65a0d6d11e06d95e2a.jpg" alt="车身单模块"></p><p>将车身模块组合</p><p><img src="/2021/11/27/%E6%A8%A1%E5%9E%8B%E6%8B%BC%E8%A3%85%E2%80%94%E2%80%94%E6%B5%81%E6%B5%AA%E5%9C%B0%E7%90%83%E8%BF%90%E5%85%B5%E8%BD%A6/041f07c71d9cad78097a46402c85557.jpg" alt="车身"></p><p>3、车头与车身部分进行组合</p><p><img src="/2021/11/27/%E6%A8%A1%E5%9E%8B%E6%8B%BC%E8%A3%85%E2%80%94%E2%80%94%E6%B5%81%E6%B5%AA%E5%9C%B0%E7%90%83%E8%BF%90%E5%85%B5%E8%BD%A6/e23430f4a21acd171ac77d0ae7849c4.jpg" alt="底座骨架"></p><h3 id="2021-11-27晚上"><a href="#2021-11-27晚上" class="headerlink" title="2021/11/27晚上"></a>2021/11/27晚上</h3><p>进度一览：车头框架、车身框架、尾灯</p><p>1、车头框架</p><p><img src="/2021/11/27/%E6%A8%A1%E5%9E%8B%E6%8B%BC%E8%A3%85%E2%80%94%E2%80%94%E6%B5%81%E6%B5%AA%E5%9C%B0%E7%90%83%E8%BF%90%E5%85%B5%E8%BD%A6/bea7bbaedec9a885bb4957b8d29c4c4.jpg" alt="车头框架"></p><p>2、尾灯</p><p><img src="/2021/11/27/%E6%A8%A1%E5%9E%8B%E6%8B%BC%E8%A3%85%E2%80%94%E2%80%94%E6%B5%81%E6%B5%AA%E5%9C%B0%E7%90%83%E8%BF%90%E5%85%B5%E8%BD%A6/3f00fce65be00f183f8b4a1016039a3.jpg" alt="尾灯"></p><p>3、车身框架</p><p><img src="/2021/11/27/%E6%A8%A1%E5%9E%8B%E6%8B%BC%E8%A3%85%E2%80%94%E2%80%94%E6%B5%81%E6%B5%AA%E5%9C%B0%E7%90%83%E8%BF%90%E5%85%B5%E8%BD%A6/d0eca915d29341fe12fd8443320d7ad.jpg" alt="车身框架"></p><h3 id="2021-11-28"><a href="#2021-11-28" class="headerlink" title="2021/11/28"></a>2021/11/28</h3><p>进度一览：车身框架、车头护甲<br>1、车头护甲（说是护甲，其实就是加了一个前面板，算是有了车头样貌的雏形））<br><img src="/2021/11/27/%E6%A8%A1%E5%9E%8B%E6%8B%BC%E8%A3%85%E2%80%94%E2%80%94%E6%B5%81%E6%B5%AA%E5%9C%B0%E7%90%83%E8%BF%90%E5%85%B5%E8%BD%A6/99d025c9d1503dbc95182affad2ff27.jpg" alt="车头护甲"><br>2、车身框架（从主干部分向外扩充了一部分）<br><img src="/2021/11/27/%E6%A8%A1%E5%9E%8B%E6%8B%BC%E8%A3%85%E2%80%94%E2%80%94%E6%B5%81%E6%B5%AA%E5%9C%B0%E7%90%83%E8%BF%90%E5%85%B5%E8%BD%A6/2a1ffccd9daedf7791ad3abb2f16529.jpg" alt="车身框架扩充"></p><h3 id="2021-12-04"><a href="#2021-12-04" class="headerlink" title="2021/12/04"></a>2021/12/04</h3><p>进度一览：车头外壳、车厢外壳<br>1、车头外壳<br><img src="/2021/11/27/%E6%A8%A1%E5%9E%8B%E6%8B%BC%E8%A3%85%E2%80%94%E2%80%94%E6%B5%81%E6%B5%AA%E5%9C%B0%E7%90%83%E8%BF%90%E5%85%B5%E8%BD%A6/315b89d7283560305d09f9674198e09.jpg" alt="车头外壳"><br>2、车厢外壳<br><img src="/2021/11/27/%E6%A8%A1%E5%9E%8B%E6%8B%BC%E8%A3%85%E2%80%94%E2%80%94%E6%B5%81%E6%B5%AA%E5%9C%B0%E7%90%83%E8%BF%90%E5%85%B5%E8%BD%A6/b75556b8b44d6867552c63accf79661.jpg" alt="车厢外壳"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;这是一个流浪地球运兵车模型拼装过程的记录&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/2021/11/27/%E6%A8%A1%E5%9E%8B%E6%8B%BC%E8%A3%85%E2%80%94%E2%80%94%E6%B5%81%E6%B5%AA%E5%9C%B0%E7%90</summary>
+      
+    
+    
+    
+    <category term="生活记录" scheme="http://example.com/categories/%E7%94%9F%E6%B4%BB%E8%AE%B0%E5%BD%95/"/>
+    
+    
+    <category term="摄影" scheme="http://example.com/tags/%E6%91%84%E5%BD%B1/"/>
+    
+    <category term="模型" scheme="http://example.com/tags/%E6%A8%A1%E5%9E%8B/"/>
+    
+    <category term="积木" scheme="http://example.com/tags/%E7%A7%AF%E6%9C%A8/"/>
+    
+    <category term="流浪地球" scheme="http://example.com/tags/%E6%B5%81%E6%B5%AA%E5%9C%B0%E7%90%83/"/>
+    
+    <category term="随笔" scheme="http://example.com/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo的部署使用——添加live2d</title>
+    <link href="http://example.com/2021/11/26/Hexo%E7%9A%84%E9%83%A8%E7%BD%B2%E4%BD%BF%E7%94%A8%E2%80%94%E2%80%94%E6%B7%BB%E5%8A%A0live2d/"/>
+    <id>http://example.com/2021/11/26/Hexo%E7%9A%84%E9%83%A8%E7%BD%B2%E4%BD%BF%E7%94%A8%E2%80%94%E2%80%94%E6%B7%BB%E5%8A%A0live2d/</id>
+    <published>2021-11-26T12:16:01.000Z</published>
+    <updated>2022-01-21T09:38:45.409Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="hexo博客编辑——如何在hexo页面添加live2d"><a href="#hexo博客编辑——如何在hexo页面添加live2d" class="headerlink" title="hexo博客编辑——如何在hexo页面添加live2d"></a>hexo博客编辑——如何在hexo页面添加live2d</h2><span id="more"></span><p>1、安装依赖环境</p><p>2、下载动画model</p><p>3、修改配置</p><h3 id="一、安装依赖环境"><a href="#一、安装依赖环境" class="headerlink" title="一、安装依赖环境"></a>一、安装依赖环境</h3><p>检查主目录下的<code>package.json</code>里是否有<code> &quot;hexo-helper-live2d&quot;: &quot;^3.1.1&quot;</code>这条依赖配置</p><p>若没有，使用命令<code>npm install --save hexo-helper-live2d</code>安装依赖环境</p><h3 id="二、下载动画model"><a href="#二、下载动画model" class="headerlink" title="二、下载动画model"></a>二、下载动画model</h3><h5 id="1、进入动画model的存放目录"><a href="#1、进入动画model的存放目录" class="headerlink" title="1、进入动画model的存放目录"></a>1、进入动画model的存放目录</h5><p><code>cd /home/hexo/node_modules</code></p><h5 id="2、下载所需要的live2d的模板"><a href="#2、下载所需要的live2d的模板" class="headerlink" title="2、下载所需要的live2d的模板"></a>2、下载所需要的live2d的模板</h5><p>下载地址：<a href="https://github.com/xiazeyu/live2d-widget-models">live2d模板下载地址</a></p><p>比如我这里选择了miku的模型，在node_modules目录下执行以下命令：</p><p><code>npm install live2d-widget-model-miku</code></p><h3 id="三、修改配置"><a href="#三、修改配置" class="headerlink" title="三、修改配置"></a>三、修改配置</h3><p>为了使live2d配置生效，我们还需要修改主目录下的<code>_config.yml</code>配置</p><p><code>vi /home/hexo/_config.yml</code></p><p>在配置文件中添加以下内容</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br></pre></td><td class="code"><pre><span class="line">live2d:</span><br><span class="line">  enable: true</span><br><span class="line">  pluginModelPath: assets/</span><br><span class="line">  model:</span><br><span class="line">    #模板目录，在node_modules里</span><br><span class="line">    use: live2d-widget-model-miku</span><br><span class="line">  display:</span><br><span class="line">    position: right</span><br><span class="line">    width: 300</span><br><span class="line">    height: 600</span><br><span class="line">  mobile:</span><br><span class="line">    #是否在手机端显示</span><br><span class="line">    show: false</span><br><span class="line">  rect:</span><br><span class="line">    opacity: 0.7</span><br></pre></td></tr></table></figure><h3 id="四、开始部署"><a href="#四、开始部署" class="headerlink" title="四、开始部署"></a>四、开始部署</h3><p>最后，使用<code>hexo g</code>命令加载配置，完成部署，在页面上就能看到添加的live2d动画了</p>]]></content>
+    
+    
+    <summary type="html">在hexo文章界面中，添加live2d</summary>
+    
+    
+    
+    <category term="学习资料" scheme="http://example.com/categories/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99/"/>
+    
+    
+    <category term="hexo" scheme="http://example.com/tags/hexo/"/>
+    
+    <category term="IT知识" scheme="http://example.com/tags/IT%E7%9F%A5%E8%AF%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo的部署使用——基础部署二</title>
+    <link href="http://example.com/2021/11/24/Hexo%E7%9A%84%E9%83%A8%E7%BD%B2%E4%BD%BF%E7%94%A8%E2%80%94%E2%80%94%E5%9F%BA%E7%A1%80%E9%83%A8%E7%BD%B2%E4%BA%8C/"/>
+    <id>http://example.com/2021/11/24/Hexo%E7%9A%84%E9%83%A8%E7%BD%B2%E4%BD%BF%E7%94%A8%E2%80%94%E2%80%94%E5%9F%BA%E7%A1%80%E9%83%A8%E7%BD%B2%E4%BA%8C/</id>
+    <published>2021-11-24T14:11:13.000Z</published>
+    <updated>2022-01-21T09:37:25.159Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="hexos使用的基本技巧"><a href="#hexos使用的基本技巧" class="headerlink" title="hexos使用的基本技巧"></a>hexos使用的基本技巧</h2><p>1、更换hexo的主题</p><p>2、新建标签、分类、归档页面</p><p>3、设置默认模板</p><p>4、将上传到github</p><h3 id="一、更换hexo的主题"><a href="#一、更换hexo的主题" class="headerlink" title="一、更换hexo的主题"></a>一、更换hexo的主题</h3><p>hexo默认的主题是landspace，需要更换主题，需要先到<a href="https://hexo.io/themes/">hexo官网</a>挑选自己喜欢的主题，然后到hexo主目录下执行命令，比方说我选的是diaspora这个主题</p><p><code>git clone https://github.com/Fechin/hexo-theme-diaspora.git themes/diaspora</code></p><p>执行完命令后，在theme目录下，会新增主题相关的目录，为了令其生效，需要修改主目录下的_config.yml配置</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"># Extensions</span><br><span class="line">## Plugins: https://hexo.io/plugins/</span><br><span class="line">## Themes: https://hexo.io/themes/</span><br><span class="line">theme: diaspora</span><br></pre></td></tr></table></figure><p>把theme的参数改成diaspora</p><p>最后，执行<code>hexo g</code>使其生效</p><h3 id="二、新建标签、分类、归档页面"><a href="#二、新建标签、分类、归档页面" class="headerlink" title="二、新建标签、分类、归档页面"></a>二、新建标签、分类、归档页面</h3><p>1、用命令行新建一个页面</p><p><code>hexo new page tags</code></p><p>2、编辑配置文件<code>/home/hexo/source/tags/index.md</code>，设置类型type的值为”tags”</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">---</span><br><span class="line">title: tags</span><br><span class="line">date: 2021-11-23 17:42:00</span><br><span class="line">type: tags</span><br><span class="line">layout: tags</span><br><span class="line">---</span><br></pre></td></tr></table></figure><p>3、编辑主题目录下的_config.yml文件，取消对应的注释</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">menu:</span><br><span class="line">  首页: /</span><br><span class="line">  分类: /categories</span><br><span class="line">  标签: /tags</span><br><span class="line">  归档: /archives</span><br><span class="line">  关于: /about</span><br></pre></td></tr></table></figure><p>4、对应关系</p><table><thead><tr><th>page</th><th>type</th><th>内容</th></tr></thead><tbody><tr><td>tages</td><td>tages</td><td>标签</td></tr><tr><td>categories</td><td>categories</td><td>分类</td></tr><tr><td>archives</td><td>archives</td><td>归档</td></tr><tr><td>about</td><td>about</td><td>关于我(自我介绍)</td></tr></tbody></table><h3 id="三、设置默认模板"><a href="#三、设置默认模板" class="headerlink" title="三、设置默认模板"></a>三、设置默认模板</h3><p>编辑主目录下的<code>scaffolds/post.md </code>文件</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td><td class="code"><pre><span class="line">---</span><br><span class="line">title: &#123;&#123; title &#125;&#125;</span><br><span class="line">date: &#123;&#123; date &#125;&#125;</span><br><span class="line">categories:</span><br><span class="line">    - 分类1</span><br><span class="line">tags:</span><br><span class="line">    - 标签1</span><br><span class="line">mp3: http://domain.com/awesome.mp3</span><br><span class="line">cover: http://domain.com/awesome.jpg</span><br><span class="line">---</span><br></pre></td></tr></table></figure><h3 id="四、将博客上传到github"><a href="#四、将博客上传到github" class="headerlink" title="四、将博客上传到github"></a>四、将博客上传到github</h3><p>1、创建github账户</p><p>2、新建账户仓库</p><p><img src="/2021/11/24/Hexo%E7%9A%84%E9%83%A8%E7%BD%B2%E4%BD%BF%E7%94%A8%E2%80%94%E2%80%94%E5%9F%BA%E7%A1%80%E9%83%A8%E7%BD%B2%E4%BA%8C/github1.png" alt="创建github仓库"></p><p>3、在主目录的<code>_config.yml</code>配置文件里，添加仓库配置</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">deploy:</span><br><span class="line">  type: git</span><br><span class="line">  repo: git@github.com:threebodyyouzi/threebody.github.io.git</span><br><span class="line">  branch: master</span><br></pre></td></tr></table></figure><p>4、安装自动部署发布工具</p><p><code>npm install hexo-deployer-git --save</code></p><p>5、发布到github</p><p>编辑完内容后，通过<code>hexo d</code>将内容上传到github</p>]]></content>
+    
+    
+    <summary type="html">hexo的基础部署，介绍hexo的一些个性化配置</summary>
+    
+    
+    
+    <category term="学习资料" scheme="http://example.com/categories/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99/"/>
+    
+    
+    <category term="hexo" scheme="http://example.com/tags/hexo/"/>
+    
+    <category term="IT知识" scheme="http://example.com/tags/IT%E7%9F%A5%E8%AF%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo的部署使用——基础部署一</title>
+    <link href="http://example.com/2021/11/24/Hexo%E7%9A%84%E9%83%A8%E7%BD%B2%E4%BD%BF%E7%94%A8%E2%80%94%E2%80%94%E5%9F%BA%E7%A1%80%E9%83%A8%E7%BD%B2%E4%B8%80/"/>
+    <id>http://example.com/2021/11/24/Hexo%E7%9A%84%E9%83%A8%E7%BD%B2%E4%BD%BF%E7%94%A8%E2%80%94%E2%80%94%E5%9F%BA%E7%A1%80%E9%83%A8%E7%BD%B2%E4%B8%80/</id>
+    <published>2021-11-24T07:13:24.000Z</published>
+    <updated>2022-01-21T09:36:30.231Z</updated>
+    
+    <content type="html"><![CDATA[<p>Hexo搭建步骤<br>    1、安装Git<br>    2、安装Node.js<br>    3、安装Hexo<br>    4、安装nginx</p><p>一、安装Git<br>    git作用：用来管理hexo博客文章，上传到github的工具<br>    安装命令：<br>    <code>yum  -y install git-core</code><br>    安装好后，用git –version确认版本</p><p>二、安装Node.js<br>    1、先从官网下载node.js的压缩包<br>        <code>wget https://nodejs.org/dist/v12.16.0/node-v12.16.0-linux-x64.tar.xz</code><br>    2、解压到/opt目录下<br>        <code>tar -xvf node-v12.16.0-linux-x64.tar.xz -C /opt/</code><br>    3、为了简洁，将目录重命名<br>        <code>cd /opt/</code><br>        <code>mv node-v12.16.0-linux-x64 nodejs</code><br>    4、修改环境变量<br>        <code>vi /etc/profile</code><br>    在该配置文件下添加以下内容<br>        <code>PATH=/opt/nodejs/bin:$PATH</code><br>    5、重新加载配置文件，使其生效<br>        <code>source /etc/profile</code><br>    6、进行验证<br>        <figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">[root@VM-0-6-centos _posts]# node -v</span><br><span class="line">v12.16.0</span><br><span class="line">[root@VM-0-6-centos _posts]# npm -v </span><br><span class="line">6.13.4</span><br></pre></td></tr></table></figure></p><p>三、安装Hexo<br>    1、安装hexo程序<br>        <code>npm install hexo-cli -g</code><br>    2、到指定的目录下部署hexo(比方说/home/hexo)<br>        <code>mkdir /home/hexo &amp;&amp; cd /home/hexo</code><br>    3、在当前目录下建立网站<br>        <code>hexo init</code><br>    4、生成静态文件<br>        <code>hexo g</code></p><p>四、安装nginx<br>    1、nginx简介<br>        nginx是一个高性能的HTTP和反向代理web服务器，同时也提供了IMAP/POP3/SMTP服务<br>        其特点是占有内存少，并发能力强<br>    2、nginx安装<br>        <code>yum -y install nginx</code><br>    3、nginx配置<br>        <code>vim /etc/nginx/nginx.conf</code><br>        在该配置文件中，首次部署可以只关注server部分<br>        <figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br></pre></td><td class="code"><pre><span class="line">server &#123;</span><br><span class="line">      listen       80;</span><br><span class="line">      listen       [::]:80;</span><br><span class="line">      server_name  _;#server_name后配置的是域名，只有一个下划线代表不启用域名</span><br><span class="line">      root         /usr/share/nginx/html;</span><br><span class="line"></span><br><span class="line">      # Load configuration files for the default server block.</span><br><span class="line">      include /etc/nginx/default.d/*.conf;</span><br><span class="line"></span><br><span class="line"></span><br><span class="line">      location / &#123;#在该部分新增location块,该location块指定/与来自请求的URI相比较的前缀</span><br><span class="line">      root /home/hexo/public;#该字段配置的是生成的静态文件所在的目录位置</span><br><span class="line">      index index.html index.htm;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">      error_page 404 /404.html;</span><br><span class="line">      location = /404.html &#123;</span><br><span class="line">      &#125;</span><br><span class="line"></span><br><span class="line">      error_page 500 502 503 504 /50x.html;</span><br><span class="line">      location = /50x.html &#123;</span><br><span class="line">      &#125;</span><br><span class="line">  &#125;</span><br></pre></td></tr></table></figure><br>    4、令nginx配置生效<br>        <code>nginx -s reload</code>            #热启动，不重启nginx服务，只是重新读取配置 </p><p>五、进行验证<br>    由于已经配置过nginx，直接用 http://公网ip/ 即可访问</p>]]></content>
+    
+    
+    <summary type="html">hexo的基础部署，本篇文章主要介绍基础环境以及程序的部署安装</summary>
+    
+    
+    
+    <category term="学习资料" scheme="http://example.com/categories/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99/"/>
+    
+    
+    <category term="hexo" scheme="http://example.com/tags/hexo/"/>
+    
+    <category term="IT知识" scheme="http://example.com/tags/IT%E7%9F%A5%E8%AF%86/"/>
+    
+  </entry>
+  
+</feed>
